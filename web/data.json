@@ -7965,9 +7965,9 @@
     "zipCode": "7524",
     "city": "Zuoz",
     "canton": "Graubünden",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.60057242016365,
-    "longitude": 9.95701458967406
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.5972865,
+    "longitude": 9.9653398
   },
   {
     "id": "Fondazione-Ernesto-Conrad",
@@ -7983,9 +7983,9 @@
     "zipCode": "7742",
     "city": "Poschiavo",
     "canton": "Graubünden",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.35326367140676,
-    "longitude": 10.063871357321622
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.3265705,
+    "longitude": 10.0584217
   },
   {
     "id": "Castelgrande---Museo-storico-archeologico",
@@ -8026,9 +8026,9 @@
     "zipCode": "1860",
     "city": "Aigle",
     "canton": "Vaud",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.3147718474711,
-    "longitude": 6.961907018361056
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.315016799999995,
+    "longitude": 6.976171458752933
   },
   {
     "id": "Ch--teau-d-Oron",
@@ -8045,9 +8045,9 @@
     "zipCode": "1608",
     "city": "Oron-le-Châtel",
     "canton": "Vaud",
-    "notice": "LOCATION TAKEN WITHOUT HOUSE NUMBER",
-    "latitude": 46.5745738,
-    "longitude": 6.8364187
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.57459955,
+    "longitude": 6.837243590121808
   },
   {
     "id": "Mus--e-national-suisse---Ch--teau-de-Prangins",
@@ -8124,9 +8124,9 @@
     "zipCode": "1938",
     "city": "Champex",
     "canton": "Valais",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.03026955,
-    "longitude": 7.115918399301057
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.0260916,
+    "longitude": 7.1223098
   },
   {
     "id": "Fort-de-Vallorbe",
@@ -8145,9 +8145,9 @@
     "zipCode": "1337",
     "city": "Vallorbe",
     "canton": "Vaud",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.7113158,
-    "longitude": 6.3793728
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.7087172,
+    "longitude": 6.410739397952218
   },
   {
     "id": "Grindelwald-Museum",
@@ -8163,9 +8163,9 @@
     "zipCode": "3818",
     "city": "Grindelwald",
     "canton": "Bern",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.62582124567492,
-    "longitude": 8.030070495610234
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.6245403,
+    "longitude": 8.0325745
   },
   {
     "id": "Heimatmuseum7260",
@@ -8185,9 +8185,9 @@
     "zipCode": "7260",
     "city": "Davos Dorf",
     "canton": "Graubünden",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.8097146,
-    "longitude": 9.8420441
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.8083063,
+    "longitude": 9.843730145125104
   },
   {
     "id": "Heimatmuseum-Safien",
@@ -8204,9 +8204,9 @@
     "zipCode": "7109",
     "city": "Thalkirch",
     "canton": "Graubünden",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.6375207,
-    "longitude": 9.2795926
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.6681828,
+    "longitude": 9.2904558
   },
   {
     "id": "IG-Halle",
@@ -8222,9 +8222,9 @@
     "zipCode": "8640",
     "city": "Rapperswil SG",
     "canton": "St. Gallen",
-    "notice": "LOCATION TAKEN WITHOUT HOUSE NUMBER",
-    "latitude": 47.227830350000005,
-    "longitude": 8.826576997657266
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.08816105,
+    "longitude": 8.287924806759726
   },
   {
     "id": "Kunsthaus-Zug",
@@ -8241,9 +8241,9 @@
     "zipCode": "6301",
     "city": "Zug",
     "canton": "Zug",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 47.17536686203714,
-    "longitude": 8.512686072907725
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.1649575,
+    "longitude": 8.5173755
   },
   {
     "id": "LiechtensteinischeSchatzkammer-9490",
@@ -8278,9 +8278,9 @@
     "zipCode": "1948",
     "city": "Lourtier",
     "canton": "Valais",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.0515031,
-    "longitude": 7.2641168
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.0490439,
+    "longitude": 7.266333299999997
   },
   {
     "id": "Mus--e-d-ethnographie",
@@ -8336,9 +8336,9 @@
     "zipCode": "1350",
     "city": "Orbe",
     "canton": "Vaud",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.72577502678912,
-    "longitude": 6.532968890537408
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.743766550000004,
+    "longitude": 6.536427951415851
   },
   {
     "id": "Mus--e-d-histoire--Sion---Geschichtsmuseum--Sitten",
@@ -8357,9 +8357,9 @@
     "zipCode": "1950",
     "city": "Sion",
     "canton": "Valais",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.23085836260599,
-    "longitude": 7.3601740612969495
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.2342036,
+    "longitude": 7.3650962
   },
   {
     "id": "Mus--e-de-l-Aviation-Militaire-de-Payerne",
@@ -8402,9 +8402,9 @@
     "zipCode": "1860",
     "city": "Aigle",
     "canton": "Vaud",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.3147718474711,
-    "longitude": 6.961907018361056
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.2941465,
+    "longitude": 7.5212977
   },
   {
     "id": "Mus--e-de-la-vigne-et-du-vin",
@@ -8420,9 +8420,9 @@
     "zipCode": "2017",
     "city": "Boudry",
     "canton": "Neuchâtel",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.95079,
-    "longitude": 6.836238903265129
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.2941465,
+    "longitude": 7.5212977
   },
   {
     "id": "Mus--e-de-Saint-Imier",
@@ -8438,9 +8438,9 @@
     "zipCode": "2610",
     "city": "Saint-Imier",
     "canton": "Bern",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 47.152065723172555,
-    "longitude": 6.997901508169644
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.1519782,
+    "longitude": 6.9966875
   },
   {
     "id": "Mus--e-des-Ormonts",
@@ -8457,9 +8457,9 @@
     "zipCode": "1864",
     "city": "Vers-l'Eglise",
     "canton": "Vaud",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.8570897,
-    "longitude": 7.1606508
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.3538623,
+    "longitude": 7.1320325
   },
   {
     "id": "Mus--e-et-jardin-botaniques-cantonaux",
@@ -8498,9 +8498,9 @@
     "zipCode": "1702",
     "city": "Fribourg",
     "canton": "Fribourg",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.80657,
-    "longitude": 7.16062
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.8073102,
+    "longitude": 7.1616773
   },
   {
     "id": "Mus--e-H-R--Giger",
@@ -8536,9 +8536,9 @@
     "zipCode": "2112",
     "city": "Môtiers NE",
     "canton": "Neuchâtel",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.9100664,
-    "longitude": 6.6117253
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.202032,
+    "longitude": 6.1466978
   },
   {
     "id": "Mus--e-Rath",
@@ -8555,9 +8555,9 @@
     "zipCode": "1204",
     "city": "Genève",
     "canton": "Genève",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.20219887281585,
-    "longitude": 6.146697119650597
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.2017522,
+    "longitude": 6.143506791430045
   },
   {
     "id": "Mus--e-rural-jurassien",
@@ -8594,9 +8594,9 @@
     "zipCode": "1852",
     "city": "Roche",
     "canton": "Vaud",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.35859204574794,
-    "longitude": 6.930631276061733
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.35967934999999,
+    "longitude": 6.932340480677713
   },
   {
     "id": "Schloss-Werdenberg",
@@ -8633,9 +8633,9 @@
     "zipCode": "6986",
     "city": "Curio",
     "canton": "Ticino",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.0021171,
-    "longitude": 8.8629862
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.002737499999995,
+    "longitude": 8.861672973082104
   },
   {
     "id": "Museo-di-Val-Verzasca",
@@ -8652,9 +8652,9 @@
     "zipCode": "6637",
     "city": "Sonogno",
     "canton": "Ticino",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.3503662,
-    "longitude": 8.7867082
+    "latitude": 46.3504031,
+    "longitude": 8.786948200000001,
+    "notice": ""
   },
   {
     "id": "Museo-di-Valmaggia",
@@ -8706,9 +8706,9 @@
     "zipCode": "7742",
     "city": "Poschiavo",
     "canton": "Graubünden",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.35326367140676,
-    "longitude": 10.063871357321622
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.3265357,
+    "longitude": 10.0566312
   },
   {
     "id": "Museo-regionale-delle-Centovalli-e-del-Pedemonte",
@@ -8724,9 +8724,9 @@
     "zipCode": "6655",
     "city": "Intragna",
     "canton": "Ticino",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.1775838,
-    "longitude": 8.7021434
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.1776686,
+    "longitude": 8.7004669
   },
   {
     "id": "Villa-dei-Cedri---Museo",
@@ -8742,9 +8742,27 @@
     "zipCode": "6500",
     "city": "Bellinzona",
     "canton": "Ticino",
-    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
-    "latitude": 46.1933488,
-    "longitude": 9.0261483
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.1852123,
+    "longitude": 9.0205275
+  },
+  {
+    "id": "Museo-Wilhelm-Schmid",
+    "url": "https://www.museums.ch/org/en/Museo-Wilhelm-Schmid",
+    "name": "Museo Wilhelm Schmid",
+    "address": [
+      "Contrada Prò 22",
+      "6979 Brè sopra Lugano"
+    ],
+    "openingTime": [
+      "apr.-ott.: ve/do 14.00-17.00."
+    ],
+    "zipCode": "6979",
+    "city": "Brè sopra Lugano",
+    "canton": "Ticino",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.01143,
+    "longitude": 8.9978622
   },
   {
     "id": "Museum-der-Landschaft-Saanen",
@@ -8781,5 +8799,489 @@
     "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
     "latitude": 47.411783315873514,
     "longitude": 9.44390183828726
+  },
+  {
+    "id": "Museum-f--r-Uhren-und-mechanische-Musikinstrumente",
+    "url": "https://www.museums.ch/org/en/Museum-f--r-Uhren-und-mechanische-Musikinstrumente",
+    "name": "Museum für Uhren und mechanische Musikinstrumente",
+    "address": [
+      "Staatstrasse 18",
+      "3653 Oberhofen am Thunersee"
+    ],
+    "openingTime": [
+      "Anfang Mai-Mitte Okt.: Mo-So 14-17",
+      "Gruppen nach Vereinbarung"
+    ],
+    "zipCode": "3653",
+    "city": "Oberhofen am Thunersee",
+    "canton": "Bern",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.73134110083097,
+    "longitude": 7.672226714232778
+  },
+  {
+    "id": "Museum-im-Kornhaus",
+    "url": "https://www.museums.ch/org/en/Museum-im-Kornhaus",
+    "name": "Museum im Kornhaus",
+    "address": [
+      "Hafenplatz 2 / Hauptstrasse 58",
+      "9400 Rorschach"
+    ],
+    "openingTime": [
+      "Täglich 10 bis 17 Uhr – von April bis Ende Oktober – auch am Montag; für Schulen und Gruppen (ab 10 Personen) ausserhalb der ordentlichen Öffnungszeiten nach Voranmeldung möglich; ebenso während der Winterpause."
+    ],
+    "zipCode": "9400",
+    "city": "Rorschach",
+    "canton": "St. Gallen",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.3894782,
+    "longitude": 8.5247131
+  },
+  {
+    "id": "Heimatmuseum-Nutli-H--schi",
+    "url": "https://www.museums.ch/org/en/Heimatmuseum-Nutli-H--schi",
+    "name": "Museum Nutli-Hüschi",
+    "address": [
+      "Abzweigung Monbielerstrasse / Talstrasse",
+      "7250 Klosters Platz"
+    ],
+    "openingTime": [
+      "ende Dezember-Ostern: Mi, Fr 15-17",
+      "Ende Jun.-Mitte Okt.: Mi, Fr 15-17"
+    ],
+    "zipCode": "7250",
+    "city": "Klosters Platz",
+    "canton": "Graubünden",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.8696852,
+    "longitude": 9.8848873
+  },
+  {
+    "id": "Museum-Schmelzra-S-charl",
+    "url": "https://www.museums.ch/org/en/Museum-Schmelzra-S-charl",
+    "name": "Museum Schmelzra S-charl",
+    "address": [
+      "Schmelzra (Bushaltestelle)",
+      "7550 S-charl"
+    ],
+    "openingTime": [
+      "Jun.-Okt.: Di-Fr 14-17; So 14-17",
+      "Ferner nach Vereinbarung, nur für Gruppen und Abenteuerexkursionen"
+    ],
+    "zipCode": "7550",
+    "city": "S-charl",
+    "canton": "Graubünden",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.7154616,
+    "longitude": 10.3346234
+  },
+  {
+    "id": "Museum-Tinguely",
+    "url": "https://www.museums.ch/org/en/Museum-Tinguely",
+    "name": "Museum Tinguely",
+    "address": [
+      "Paul Sacher-Anlage 2",
+      "4002 Basel"
+    ],
+    "openingTime": [
+      "Tuesday to Sunday 11 am to 6 pm",
+      "Monday closed"
+    ],
+    "zipCode": "4002",
+    "city": "Basel",
+    "canton": "Basel Stadt",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.55922355,
+    "longitude": 7.612303254490875
+  },
+  {
+    "id": "Ortsmuseum7078",
+    "url": "https://www.museums.ch/org/en/Ortsmuseum7078",
+    "name": "Museum Vaz/Obervaz -  das Museum der Ferienregion Lenzerheide - ",
+    "address": [
+      "Voa  da Solis 2",
+      "7082 Vaz/Obervaz-Zorten"
+    ],
+    "openingTime": [
+      "Unser Museum ist im Winter 2020/21 vom 14.12.2020 bis 11.04.2021 geöffnet.",
+      "Die Sommersaison 2020/21 beginnt Ende Juni",
+      "Mo., Mi., Do., und So. jeweils von 16:00 bis 18:00 Uhr",
+      "Führungen sind auch ausserhalb der Öffnungszeiten möglich."
+    ],
+    "zipCode": "7082",
+    "city": "Vaz/Obervaz-Zorten",
+    "canton": "Graubünden",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.6957079,
+    "longitude": 9.5345589
+  },
+  {
+    "id": "Nationalparkzentrum",
+    "url": "https://www.museums.ch/org/en/Nationalparkzentrum",
+    "name": "Nationalparkzentrum",
+    "address": [
+      "Via d'Urtatsch 2",
+      "7530 Zernez"
+    ],
+    "openingTime": [
+      "June-Oct.: Mo-So 8.30-18",
+      "Nov-Dec/March-May Mo-Fr 9-12, 14-17",
+      "December 26 to the second saturday of march: Mo-Sa 9-17"
+    ],
+    "zipCode": "7530",
+    "city": "Zernez",
+    "canton": "Graubünden",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.69926165,
+    "longitude": 10.095416367393417
+  },
+  {
+    "id": "Wildnispark-Zuerich-Sihlwald",
+    "url": "https://www.museums.ch/org/en/Wildnispark-Zuerich-Sihlwald",
+    "name": "Naturmuseum Wildnispark Zürich",
+    "address": [
+      "Alte Sihltalstrasse 13",
+      "8135 Sihlwald"
+    ],
+    "openingTime": [
+      "Naturmuseum und Besucherzentrum Sihlwald:",
+      "21. Mär. bis Ende Okt.: Di-Fr 12-17.30; So & Feiertage 9-17.30",
+      "Naturerlebnispark Sihlwald und Tierpark Langenberg durchgehend geöffnet"
+    ],
+    "zipCode": "8135",
+    "city": "Sihlwald",
+    "canton": "Zürich",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 47.2683235,
+    "longitude": 8.5576283
+  },
+  {
+    "id": "Mus--e-Neuhaus",
+    "url": "https://www.museums.ch/org/en/Mus--e-Neuhaus",
+    "name": "Neues Museum Biel / Nouveau Musée Bienne",
+    "address": [
+      "Seevorstadt 52 / faubourg du lac 52",
+      "2501 Biel/Bienne"
+    ],
+    "openingTime": [
+      "Di-So 11-17h"
+    ],
+    "zipCode": "2501",
+    "city": "Biel/Bienne",
+    "canton": "Bern",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 47.14068125484148,
+    "longitude": 7.249693313251409
+  },
+  {
+    "id": "Kunsthaus---CentrePasquArt",
+    "url": "https://www.museums.ch/org/en/Kunsthaus---CentrePasquArt",
+    "name": "Pasquart Kunsthaus Centre d'art",
+    "address": [
+      "Seevorstadt 71 Faubourg du Lac",
+      "2502 Biel/Bienne"
+    ],
+    "openingTime": [
+      "Wed 12-18; Thurs 12-20; Fri 12-18; Sat, Sun 11-18"
+    ],
+    "zipCode": "2502",
+    "city": "Biel/Bienne",
+    "canton": "Bern",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 47.14163996906262,
+    "longitude": 7.248909214157734
+  },
+  {
+    "id": "Pegasus-Small-World",
+    "url": "https://www.museums.ch/org/en/Pegasus-Small-World",
+    "name": "Pegasus Small World",
+    "address": [
+      "Habersaat 3",
+      "8914 Aeugstertal"
+    ],
+    "openingTime": [
+      "Mi-So 11-18"
+    ],
+    "zipCode": "8914",
+    "city": "Aeugstertal",
+    "canton": "Zürich",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.2777892,
+    "longitude": 8.503306
+  },
+  {
+    "id": "Pinacoteca-comunale",
+    "url": "https://www.museums.ch/org/en/Pinacoteca-comunale",
+    "name": "Pinacoteca Comunale Casa Rusca",
+    "address": [
+      "Via B. Rusca 5",
+      "6600 Locarno"
+    ],
+    "openingTime": [
+      "Tue-Sun 10-12 and 14-17"
+    ],
+    "zipCode": "6600",
+    "city": "Locarno",
+    "canton": "Ticino",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.17061553838612,
+    "longitude": 8.78632034941599
+  },
+  {
+    "id": "Rebbaumuseum-am-Bielersee---Mus--e-de-la-vigne-au-lac-de-Bienne",
+    "url": "https://www.museums.ch/org/en/Rebbaumuseum-am-Bielersee---Mus--e-de-la-vigne-au-lac-de-Bienne",
+    "name": "Rebbaumuseum am Bielersee / Musée de la vigne au lac de Bienne",
+    "address": [
+      "Bielstrasse 66 / Schafis",
+      "2514 Ligerz"
+    ],
+    "openingTime": [
+      "Mai-Oktober: Samstag und Sonntag jeweils 13.30-17 Uhr",
+      "Für angemeldete Gruppen ganzjährig geöffnet"
+    ],
+    "zipCode": "2514",
+    "city": "Ligerz",
+    "canton": "Bern",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 47.08749006046933,
+    "longitude": 7.138352487493768
+  },
+  {
+    "id": "Regionalmuseum-Ch--echlihus",
+    "url": "https://www.museums.ch/org/en/Regionalmuseum-Ch--echlihus",
+    "name": "Regionalmuseum Chüechlihus",
+    "address": [
+      "Bärenplatz 1",
+      "3550 Langnau i. E."
+    ],
+    "openingTime": [
+      "Mitte Mär.-Mitte Nov.: Di-Sa 13.30-18; So 10-18",
+      "Führungen nach Vereinbarung"
+    ],
+    "zipCode": "3550",
+    "city": "Langnau i. E.",
+    "canton": "Bern",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.9390655,
+    "longitude": 7.7842512
+  },
+  {
+    "id": "Sammlung-Rosengart",
+    "url": "https://www.museums.ch/org/en/Sammlung-Rosengart",
+    "name": "Sammlung Rosengart",
+    "address": [
+      "Pilatustrasse 10",
+      "6003 Luzern"
+    ],
+    "openingTime": [
+      "Apr.-Okt.: Mo-So 10-18",
+      "Nov.-Mär.: Mo-So 11-17"
+    ],
+    "zipCode": "6003",
+    "city": "Luzern",
+    "canton": "Luzern",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.0496846,
+    "longitude": 8.3073171
+  },
+  {
+    "id": "sasso-sangottardo",
+    "url": "https://www.museums.ch/org/en/sasso-sangottardo",
+    "name": "Sasso San Gottardo",
+    "address": [
+      "Passo del San Gottardo",
+      "6780 Gottardo"
+    ],
+    "openingTime": [
+      "siehe www.sasso-sangottardo.ch"
+    ],
+    "zipCode": "6780",
+    "city": "Gottardo",
+    "canton": "Ticino",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.5588425,
+    "longitude": 8.5666681
+  },
+  {
+    "id": "Schweizerisches-Agrarmuseum-Burgrain",
+    "url": "https://www.museums.ch/org/en/Schweizerisches-Agrarmuseum-Burgrain",
+    "name": "Schweizerisches Agrarmuseum Burgrain",
+    "address": [
+      "Burgrain 20",
+      "6248 Alberswil-Willisau"
+    ],
+    "openingTime": [
+      "Apr.-Okt.: Mi-Sa 14-17; So und Feiertage 10-17"
+    ],
+    "zipCode": "6248",
+    "city": "Alberswil-Willisau",
+    "canton": "Luzern",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.143343,
+    "longitude": 7.9964588
+  },
+  {
+    "id": "Site-arch--ologique-de-la-Cath--drale-St-Pierre",
+    "url": "https://www.museums.ch/org/en/Site-arch--ologique-de-la-Cath--drale-St-Pierre",
+    "name": "Site archéologique de la Cathédrale Saint-Pierre de Genève",
+    "address": [
+      "Cour Saint-Pierre, 6",
+      "1204 Genève"
+    ],
+    "openingTime": [
+      "Mon-Sun 10-17"
+    ],
+    "zipCode": "1204",
+    "city": "Genève",
+    "canton": "Genève",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.20219887281585,
+    "longitude": 6.146697119650597
+  },
+  {
+    "id": "Spielzeugmuseum-3665",
+    "url": "https://www.museums.ch/org/en/Spielzeugmuseum-3665",
+    "name": "Spielzeugmuseum Wattenwil",
+    "address": [
+      "Mettlengasse 5",
+      "3665 Wattenwil"
+    ],
+    "openingTime": [
+      "Mittwoch und Sonntag 14 - 17 Uhr",
+      "Übrige Zeit auf Anfrage",
+      "Februar, Juli, August nur auf Anfrage"
+    ],
+    "zipCode": "3665",
+    "city": "Wattenwil",
+    "canton": "Bern",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.76545387933683,
+    "longitude": 7.504480574913237
+  },
+  {
+    "id": "Urner-Mineralien-Museum",
+    "url": "https://www.museums.ch/org/en/Urner-Mineralien-Museum",
+    "name": "Urner Mineralien-Museum",
+    "address": [
+      "Hauptstrasse",
+      "6462 Seedorf UR"
+    ],
+    "openingTime": [
+      "Mitte Mai bis Mitte Okt.: Do, Sa, So 13-17 Uhr",
+      "Mai-Okt. Gruppen außerhalb Öffnungszeiten auf Anmeldung möglich"
+    ],
+    "zipCode": "6462",
+    "city": "Seedorf UR",
+    "canton": "Uri",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.889018663413005,
+    "longitude": 8.602391849154886
+  },
+  {
+    "id": "Moulins-de-la-Tine",
+    "url": "https://www.museums.ch/org/en/Moulins-de-la-Tine",
+    "name": "Vieux Moulins de la Tine",
+    "address": [
+      "Fondation des VIMOTI",
+      "1872 Troistorrents"
+    ],
+    "openingTime": [
+      "Pour les groupes dès 10 personnes,",
+      "visites guidées toute l'année sur réservations (par courriel)",
+      "Ouverture estivale",
+      "de mai à septembre",
+      "les dimanches",
+      "en juillet et en août",
+      "les mercredis - samedis - dimanches",
+      "entre 14H00 et 17H00",
+      "(visites individuelles sans guide)",
+      "Couvert à louer \"Espace Scierie\""
+    ],
+    "zipCode": "1872",
+    "city": "Troistorrents",
+    "canton": "Valais",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 46.23608465,
+    "longitude": 6.9146826872521245
+  },
+  {
+    "id": "Vindonissa-Museum",
+    "url": "https://www.museums.ch/org/en/Vindonissa-Museum",
+    "name": "Vindonissa Museum - Museum Aargau",
+    "address": [
+      "Museumstrasse 1",
+      "5200 Brugg AG"
+    ],
+    "openingTime": [
+      "Di-Fr, So 13-17",
+      "Nach Vereinbarung, nur für Schulen und Gruppen: Di-Fr 10-12"
+    ],
+    "zipCode": "5200",
+    "city": "Brugg AG",
+    "canton": "Aargau",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.484347650000004,
+    "longitude": 8.205629372829208
+  },
+  {
+    "id": "Vitromus--e-Romont",
+    "url": "https://www.museums.ch/org/en/Vitromus--e-Romont",
+    "name": "Vitromusée Romont",
+    "address": [
+      "Au Château",
+      "1680 Romont"
+    ],
+    "openingTime": [
+      "Nov–mar: ma–di 11.00 –17.00",
+      "Avr–oct: ma–di 10.00 – 17.00",
+      "Horaire spécial durant les fêtes :",
+      "Ouvert le lundi de Pâques et le lundi de Pentecôte,",
+      "Fermé le 25 décembre,",
+      "Ouvert le 1er janvier dès 14.00"
+    ],
+    "zipCode": "1680",
+    "city": "Romont",
+    "canton": "Fribourg",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 46.6948131,
+    "longitude": 6.9189346
+  },
+  {
+    "id": "Grubenmann-Sammlung",
+    "url": "https://www.museums.ch/org/en/Grubenmann-Sammlung",
+    "name": "Zeughaus Teufen",
+    "address": [
+      "Zeughausplatz 1",
+      "9053 Teufen"
+    ],
+    "openingTime": [
+      "Mi, Fr, Sa 14-17; Do 14-19; So 12-17",
+      "Ferner nach Vereinbarung"
+    ],
+    "zipCode": "9053",
+    "city": "Teufen",
+    "canton": "Appenzell Ausserrhoden",
+    "notice": "MUSEUM FOUND ONLY BY NAME",
+    "latitude": 47.3881816,
+    "longitude": 9.395197
+  },
+  {
+    "id": "Z--rcher-Spielzeugmuseum---Sammlung-Franz-Carl-Weber",
+    "url": "https://www.museums.ch/org/en/Z--rcher-Spielzeugmuseum---Sammlung-Franz-Carl-Weber",
+    "name": "Zürcher Spielzeugmuseum / Sammlung Franz Carl Weber",
+    "address": [
+      "Fortunagasse 15 / Ecke Rennweg",
+      "8001 Zürich"
+    ],
+    "openingTime": [
+      "Mo-Fr 14-17; Sa 13-16.",
+      "Gruppenführungen nach Vereinbarung"
+    ],
+    "zipCode": "8001",
+    "city": "Zürich",
+    "canton": "Zürich",
+    "notice": "LOCATION TAKEN WITHOUT FIRST ADDRESS LINE (ONLY BY ZIP CODE AND CITY)",
+    "latitude": 47.3705688,
+    "longitude": 8.53744305065265
   }
 ]
