@@ -1747,7 +1747,7 @@
                               "child": [
                                 {
                                   "node": "text",
-                                  "text": "Number of results: 504"
+                                  "text": "Number of results: 505"
                                 }
                               ]
                             }
@@ -2644,7 +2644,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Ende Apr.-Anfang Nov.: Mo-So 14-17.30;\r\nVilla Abegg nur mit Führung (max. 5 Personen)"
+                                          "text": "Ende Apr.-Anfang Nov.: Mo-So 14-17.30;\r\nVilla Abegg nur mit Führung (max. 2 Personen)"
                                         }
                                       ]
                                     },
@@ -10469,6 +10469,149 @@
                                   "node": "element",
                                   "tag": "a",
                                   "attr": {
+                                    "href": "https://www.museums.ch/org/en/Mus--e-national-suisse---Ch--teau-de-Prangins"
+                                  },
+                                  "child": [
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsname"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Château de Prangins - Musée national suisse"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsadresse"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Av. Général Guiguer 3"
+                                        },
+                                        {
+                                          "node": "element",
+                                          "tag": "br"
+                                        },
+                                        {
+                                          "node": "text",
+                                          "text": "\n\t\t\t\t\t1197 Prangins"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsoeffnungszeiten"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Ma–di 10–17\r\nOuvert les jours fériés, sauf 25 déc, 1er jan"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte2"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "Prangins"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte3"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "Vaud"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t"
+                            }
+                          ]
+                        },
+                        {
+                          "node": "element",
+                          "tag": "div",
+                          "attr": {
+                            "class": [
+                              "fix",
+                              "group"
+                            ]
+                          },
+                          "child": [
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte1"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t\t"
+                                },
+                                {
+                                  "node": "element",
+                                  "tag": "a",
+                                  "attr": {
                                     "href": "https://www.museums.ch/org/en/Ch--teau-de-St-Maurice-"
                                   },
                                   "child": [
@@ -10584,6 +10727,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -10628,7 +10792,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Château et Musée de Valangin"
+                                          "text": "Château et musée de Valangin"
                                         }
                                       ]
                                     },
@@ -10643,6 +10807,14 @@
                                         "class": "museumsadresse"
                                       },
                                       "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Bourg 24"
+                                        },
+                                        {
+                                          "node": "element",
+                                          "tag": "br"
+                                        },
                                         {
                                           "node": "text",
                                           "text": "\n\t\t\t\t\t2042 Valangin"
@@ -10662,7 +10834,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Mar–début nov: me–di 11–17\r\nLu, ma: fermé\r\nGroupes toute l’année sur rdv."
+                                          "text": "1er mars–31 oct: me–sa 13h30–17, di 11h-17h\r\nLu, ma: fermé\r\nGroupes toute l’année sur rdv."
                                         }
                                       ]
                                     },
@@ -10717,27 +10889,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -11062,7 +11213,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Classic Car Museum"
+                                          "text": "Classic Car / Oldtimer Museum"
                                         }
                                       ]
                                     },
@@ -11104,7 +11255,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Museum \r\nMonday and Sunday closed\r\nTu – Fr : 10.00 am – 18.00 pm\r\nSa : 10.00 am – 16.00 pm\r\n\r\nCoffee bar & Shop\r\nMo – Fr : 07.30 am – 18.00 pm\r\nSa : 07.30 am – 16.00 pm"
+                                          "text": "Museum \r\nMo – Sun : 10.00 am – 17.00 pm\r\n"
                                         }
                                       ]
                                     },
@@ -11390,7 +11541,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Casa Anatta\r\n10 June- 1 November / \r\nWed - Sat | 14:00 - 18:00 / \r\nSun + public holidays | 10:00 - 13:00 | 14:00 - 18:00 \r\n~\r\nCasa Selma\r\nApril – October | 09:00 – 19:00 / Free entrance \r\n~\r\nCasa dei Russi: open during temporary exhibitions \r\n~\r\nPadiglione Elisarion: closed for restoration\r\n"
+                                          "text": "Casa Anatta\r\n1 April - 31 October \r\nWed - Sat | 14:00 - 18:00 / \r\nSun + public holidays | 10:00 - 13:00 | 14:00 - 18:00 \r\n~\r\nPadiglione Elisarion \r\n1 April - 31 October \r\nSat | 14:00 - 18:00 / \r\nSun + public holidays | 10:00 - 13:00 | 14:00 - 18:00 \r\n\r\n"
                                         }
                                       ]
                                     },
@@ -13090,7 +13241,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Wednesday-Friday 12.00 - 18.00 \r\nSaturday-Sunday  10.00 - 18.00 \r\nMonday and Tuesday closed \r\n\r\n\r\n"
+                                          "text": "Tuesday-Sunday 10.00 - 18.00 \r\nMonday closed \r\n\r\n\r\n"
                                         }
                                       ]
                                     },
@@ -13433,6 +13584,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -13574,27 +13746,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -16207,7 +16358,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Gewerbemuseum"
+                                          "text": "Gewerbemuseum Winterthur"
                                         }
                                       ]
                                     },
@@ -16304,6 +16455,27 @@
                               "text": "\n\t\t\t"
                             }
                           ]
+                        },
+                        {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -16447,27 +16619,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -18701,7 +18852,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Das Museum öffnet am 28. März 2020 wieder.\r\n"
+                                          "text": "Das Museum öffnet am 2. April 2021 wieder.\r\n"
                                         }
                                       ]
                                     },
@@ -19187,6 +19338,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -19328,27 +19500,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -21128,7 +21279,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Route de Fontenais 21 + 22"
+                                          "text": "Route de Fontenais 21 "
                                         },
                                         {
                                           "node": "element",
@@ -21540,7 +21691,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Klingende Sammlung"
+                                          "text": "Klingendes Museum Bern"
                                         }
                                       ]
                                     },
@@ -21582,7 +21733,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "s. Webseite"
+                                          "text": "Wednesdays to Sundays 14:00–17:00"
                                         }
                                       ]
                                     },
@@ -22052,6 +22203,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -22193,27 +22365,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -24936,6 +25087,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -25077,27 +25249,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -25700,6 +25851,149 @@
                                   "node": "element",
                                   "tag": "a",
                                   "attr": {
+                                    "href": "https://www.museums.ch/org/en/KunstzoneLokremiseStGallen-9000"
+                                  },
+                                  "child": [
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsname"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Kunstzone Lokremise St. Gallen "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsadresse"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Grünbergstrasse 7"
+                                        },
+                                        {
+                                          "node": "element",
+                                          "tag": "br"
+                                        },
+                                        {
+                                          "node": "text",
+                                          "text": "\n\t\t\t\t\t9000 St. Gallen"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsoeffnungszeiten"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "1"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte2"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "St. Gallen"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte3"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "St. Gallen"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t"
+                            }
+                          ]
+                        },
+                        {
+                          "node": "element",
+                          "tag": "div",
+                          "attr": {
+                            "class": [
+                              "fix",
+                              "group"
+                            ]
+                          },
+                          "child": [
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte1"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t\t"
+                                },
+                                {
+                                  "node": "element",
+                                  "tag": "a",
+                                  "attr": {
                                     "href": "https://www.museums.ch/org/en/LaMaisondelaRivire-1131"
                                   },
                                   "child": [
@@ -25901,7 +26195,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Jun–sep: lu–di 9–18.30; oct–mai: lu–di 9–18\r\nDémonstration de fabrication: 3 à 4 fois par j. selon la saison (9–11, 12.30–14.30)"
+                                          "text": "Jun–sep: lu–di 9–18.30; oct–mai: lu–di 9–18\r\nDémonstration de fabrication: 3 à 4 fois par j. selon la saison (9–12.30)"
                                         }
                                       ]
                                     },
@@ -26831,6 +27125,149 @@
                                   "node": "element",
                                   "tag": "a",
                                   "attr": {
+                                    "href": "https://www.museums.ch/org/en/LiechtensteinischeSchatzkammer-9490"
+                                  },
+                                  "child": [
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsname"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Liechtensteinische Schatzkammer "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsadresse"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Städtle 37"
+                                        },
+                                        {
+                                          "node": "element",
+                                          "tag": "br"
+                                        },
+                                        {
+                                          "node": "text",
+                                          "text": "\n\t\t\t\t\t9490 Vaduz"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsoeffnungszeiten"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Täglich 10:00 - 17:00 Uhr"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte2"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "Vaduz"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte3"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "Liechtenstein"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t"
+                            }
+                          ]
+                        },
+                        {
+                          "node": "element",
+                          "tag": "div",
+                          "attr": {
+                            "class": [
+                              "fix",
+                              "group"
+                            ]
+                          },
+                          "child": [
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte1"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t\t"
+                                },
+                                {
+                                  "node": "element",
+                                  "tag": "a",
+                                  "attr": {
                                     "href": "https://www.museums.ch/org/en/Liechtensteinisches-Landesmuseum"
                                   },
                                   "child": [
@@ -27518,6 +27955,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -27945,27 +28403,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -30199,7 +30636,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "> avril-octobre: visites tous les jours à 10h30 et 14h. Visites suppl. SA à 17h30 + juillet-août: tous les jours à 12h, 16h et 17h30\r\n> novembre-mars: visites tous les jours à 14h + SA à 17h30\r\nGroupes: visites guidées à toute heure, toute l’année sur réservation"
+                                          "text": "> avril-octobre: visites tous les jours à 10h30 et 14h. Visites suppl. juillet-août: tous les jours à 12h, 16h et 17h30\r\n> novembre-mars: visites tous les jours à 14h + SA à 17h30, sur réservation\r\nGroupes: visites guidées à toute heure, toute l’année sur réservation"
                                         }
                                       ]
                                     },
@@ -30397,6 +30834,27 @@
                               "text": "\n\t\t\t"
                             }
                           ]
+                        },
+                        {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -30826,27 +31284,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -32794,7 +33231,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Opens on 7th June 2020. Fri, Sat, Sun 2 pm – 6 pm, or by appointment (all year round)"
+                                          "text": "Opens on 14th May 2021 to 31st October 2021. Fri, Sat, Sun 2 pm – 6 pm, or by appointment (all year round)"
                                         }
                                       ]
                                     },
@@ -33280,6 +33717,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -33707,27 +34165,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -36161,6 +36598,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -36588,27 +37046,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -39046,6 +39483,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -39473,27 +39931,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -41113,7 +41550,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Musée Jenisch Vevey - Cabinet cantonal des estampes, Fondation Oskar Kokoschka"
+                                          "text": "Musée Jenisch Vevey "
                                         }
                                       ]
                                     },
@@ -41488,149 +41925,6 @@
                                 {
                                   "node": "text",
                                   "text": "Bern"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t"
-                            }
-                          ]
-                        },
-                        {
-                          "node": "element",
-                          "tag": "div",
-                          "attr": {
-                            "class": [
-                              "fix",
-                              "group"
-                            ]
-                          },
-                          "child": [
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte1"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "\n\t\t\t\t\t"
-                                },
-                                {
-                                  "node": "element",
-                                  "tag": "a",
-                                  "attr": {
-                                    "href": "https://www.museums.ch/org/en/Mus--e-national-suisse---Ch--teau-de-Prangins"
-                                  },
-                                  "child": [
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsname"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Musée national suisse - Château de Prangins"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsadresse"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Av. Général Guiguer 3"
-                                        },
-                                        {
-                                          "node": "element",
-                                          "tag": "br"
-                                        },
-                                        {
-                                          "node": "text",
-                                          "text": "\n\t\t\t\t\t1197 Prangins"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsoeffnungszeiten"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Ma–di 10–17\r\nOuvert les jours fériés, sauf 25 déc, 1er jan"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "node": "text",
-                                  "text": "\n\t\t\t\t"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte2"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "Prangins"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte3"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "Vaud"
                                 }
                               ]
                             },
@@ -42062,6 +42356,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -42346,27 +42661,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -44935,6 +45229,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -45219,27 +45534,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -45614,7 +45908,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Magg.-ott.: ma-do 11-16"
+                                          "text": "May-October: Tue-Sun 11-16. \r\n2021: the new permanent exhibition \"Child Labour Yesterday and Today\" starts on 10 April."
                                         }
                                       ]
                                     },
@@ -47449,7 +47743,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "January - May 10.00-17.00\r\nJune - September 10.00-18.00\r\nOctober - December 10.00-17.00\r\nSunday 10.00-18.00\r\nMonday closed\r\nThe Museum is open during the following holidays:\r\nEaster Monday\r\nWhit Monday\r\n1 May\r\n1 August\r\n15 August\r\n8 December\r\n6 January\r\nclosed: 24, 25, 26 December and 1 January"
+                                          "text": "rom Tuesday to Friday:\r\nJanuary - May 10.00-17.00\r\nJune - September 10.00-18.00\r\nOctober - December 10.00-17.00\r\nSaturday, Sunday10.00-18.00\r\nMonday closed\r\nOpen during the following holidays (10.00-18.00)\r\nEaster Monday\r\nAscension Day\r\nWhit Monday\r\nCorpus Christi\r\n1 May\r\n1 August\r\n15 August\r\n8 December\r\n6 January"
                                         }
                                       ]
                                     },
@@ -47792,6 +48086,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -48076,27 +48391,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -48757,7 +49051,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Di–Sa 14–17 h | So 10–17 h\r\nSchulen und Gruppen auch ausserhalb der Öffnungszeiten auf Anfrage "
+                                          "text": "10:00 - 17:00 | Sa,So \r\n14:00 - 17:00 | Di,Mi,Do,Fr \r\n\r\nSchulen und Gruppen auch ausserhalb der Öffnungszeiten auf Anfrage "
                                         }
                                       ]
                                     },
@@ -49043,7 +49337,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Opening hours\r\nWednesday to Saturday: 13h00 – 17h00 or by appointment"
+                                          "text": "Opening hours\r\nTuesday to Sunday: 10h00 – 17h00"
                                         }
                                       ]
                                     },
@@ -50673,6 +50967,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -50759,7 +51074,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Exhibitions: Tuesday–Sunday 10am–5pm, Wednesday 10am–8pm\r\nTours of the collection archive: Tuesday–Sunday at noon"
+                                          "text": "Tuesday–Sunday 10am–5pm\r\nThursday 10am–8pm\r\nMonday closed"
                                         }
                                       ]
                                     },
@@ -50902,7 +51217,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Exhibitions: Tuesday–Sunday 10am–5pm, Wednesday 10am–20pm"
+                                          "text": "Tuesday–Sunday 10am–5pm\r\nThursday 10am–8pm\r\nMonday closed"
                                         }
                                       ]
                                     },
@@ -50957,27 +51272,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -51924,7 +52218,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "REOPENING: 2.06.2020\r\nTue / Thu–Sun: 11 am to 5 pm\r\nWed: 11 am to 8 pm \r\nMonday closed"
+                                          "text": "Tue / Thu–Sun: 11 am to 5 pm\r\nWed: 11 am to 8 pm \r\nMonday closed"
                                         }
                                       ]
                                     },
@@ -53554,6 +53848,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -53838,27 +54153,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -54208,7 +54502,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Gerbergasse 2"
+                                          "text": "Rabengasse 3"
                                         },
                                         {
                                           "node": "element",
@@ -54233,7 +54527,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "6. Mai bis 28. Oktober 2018\r\nDo. 10 - 12\r\nFr. 17 - 20\r\nSa. 14 - 17\r\nSo. 10 - 17\r\n"
+                                          "text": "Wegen Umbau zurzeit geschlossen"
                                         }
                                       ]
                                     },
@@ -54805,7 +55099,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Mi-Fr 14-17; Sa, So 11-17"
+                                          "text": "Do 14–20 h\r\nFr 14–17 h\r\nSa/So 11–17 h"
                                         }
                                       ]
                                     },
@@ -56435,6 +56729,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -56664,7 +56979,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Di-Sa 10-17\r\n"
+                                          "text": "Di-So 10-17 Uhr. \r\n\r\nAn diesen Tagen bleibt das Museum.BL geschlossen: 01.05., 01.08., 24.12., 25.12., 26.12., 31.12.2021, 01.01.2022\r\n\r\n\r\n\r\n\r\n"
                                         }
                                       ]
                                     },
@@ -56719,27 +57034,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -56946,7 +57240,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Arenenbergerstrasse"
+                                          "text": "Arenenbergerstrasse 1"
                                         },
                                         {
                                           "node": "element",
@@ -57400,7 +57694,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Di-So 10.00 - 17.00 Uhr\r\nDo 10.00-19.00 Uhr"
+                                          "text": "Di-So 10.00 - 17.00 Uhr\r\n"
                                         }
                                       ]
                                     },
@@ -57859,149 +58153,6 @@
                                 {
                                   "node": "text",
                                   "text": "Olten"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte3"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "Solothurn"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t"
-                            }
-                          ]
-                        },
-                        {
-                          "node": "element",
-                          "tag": "div",
-                          "attr": {
-                            "class": [
-                              "fix",
-                              "group"
-                            ]
-                          },
-                          "child": [
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte1"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "\n\t\t\t\t\t"
-                                },
-                                {
-                                  "node": "element",
-                                  "tag": "a",
-                                  "attr": {
-                                    "href": "https://www.museums.ch/org/en/Naturmuseum-Solothurn"
-                                  },
-                                  "child": [
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsname"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Naturmuseum Solothurn"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsadresse"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Klosterplatz 2"
-                                        },
-                                        {
-                                          "node": "element",
-                                          "tag": "br"
-                                        },
-                                        {
-                                          "node": "text",
-                                          "text": "\n\t\t\t\t\t4500 Solothurn"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsoeffnungszeiten"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Di-Sa 14-17; So 10-17\r\nFerner nach Vereinbarung, nur für Gruppen"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "node": "text",
-                                  "text": "\n\t\t\t\t"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte2"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "Solothurn"
                                 }
                               ]
                             },
@@ -59459,6 +59610,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -59600,27 +59772,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -60710,7 +60861,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "The exhibition pavilion is only open during the summer months.\r\n2020 Season: 8 May– 27 November\r\n\r\nTuesday–Sunday 12 noon–6pm\r\nThursday 12 noon–8pm"
+                                          "text": "The exhibition pavilion is open only during the summer months.\r\nSeason 2021: May 7 – November 28\r\n\r\nTuesday–Sunday 12 noon–6pm\r\nThursday 12 noon–8pm"
                                         }
                                       ]
                                     },
@@ -62340,6 +62491,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -62483,170 +62655,6 @@
                           ]
                         },
                         {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
-                        },
-                        {
-                          "node": "element",
-                          "tag": "div",
-                          "attr": {
-                            "class": [
-                              "fix",
-                              "group"
-                            ]
-                          },
-                          "child": [
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte1"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "\n\t\t\t\t\t"
-                                },
-                                {
-                                  "node": "element",
-                                  "tag": "a",
-                                  "attr": {
-                                    "href": "https://www.museums.ch/org/en/Regionalmuseum-Schwarzwasser"
-                                  },
-                                  "child": [
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsname"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Regionalmuseum Schwarzwasser"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsadresse"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Leimern 5"
-                                        },
-                                        {
-                                          "node": "element",
-                                          "tag": "br"
-                                        },
-                                        {
-                                          "node": "text",
-                                          "text": "\n\t\t\t\t\t3150 Schwarzenburg"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    },
-                                    {
-                                      "node": "element",
-                                      "tag": "span",
-                                      "attr": {
-                                        "class": "museumsoeffnungszeiten"
-                                      },
-                                      "child": [
-                                        {
-                                          "node": "text",
-                                          "text": "Von März bis November jeweils sonntags von 14 bis 17 Uhr\r\njederzeit Führungen nach Vereinbarung: T 031 808 00 20 (Zusatzkosten zum Eintritt: Fr. 50.-)"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "node": "text",
-                                      "text": "\n\t\t\t\t\t"
-                                    }
-                                  ]
-                                },
-                                {
-                                  "node": "text",
-                                  "text": "\n\t\t\t\t"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte2"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "Schwarzenburg"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t\t"
-                            },
-                            {
-                              "node": "element",
-                              "tag": "div",
-                              "attr": {
-                                "class": "spalte3"
-                              },
-                              "child": [
-                                {
-                                  "node": "text",
-                                  "text": "Bern"
-                                }
-                              ]
-                            },
-                            {
-                              "node": "text",
-                              "text": "\n\t\t\t"
-                            }
-                          ]
-                        },
-                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -62691,7 +62699,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Regionalmuseum Vitznau-Rigi"
+                                          "text": "Regionalmuseum der Luzerner Rigi-Gemeinden"
                                         }
                                       ]
                                     },
@@ -62780,6 +62788,149 @@
                                 {
                                   "node": "text",
                                   "text": "Luzern"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t"
+                            }
+                          ]
+                        },
+                        {
+                          "node": "element",
+                          "tag": "div",
+                          "attr": {
+                            "class": [
+                              "fix",
+                              "group"
+                            ]
+                          },
+                          "child": [
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte1"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t\t"
+                                },
+                                {
+                                  "node": "element",
+                                  "tag": "a",
+                                  "attr": {
+                                    "href": "https://www.museums.ch/org/en/Regionalmuseum-Schwarzwasser"
+                                  },
+                                  "child": [
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsname"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Regionalmuseum Gantrisch"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsadresse"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Leimern 5"
+                                        },
+                                        {
+                                          "node": "element",
+                                          "tag": "br"
+                                        },
+                                        {
+                                          "node": "text",
+                                          "text": "\n\t\t\t\t\t3150 Schwarzenburg"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    },
+                                    {
+                                      "node": "element",
+                                      "tag": "span",
+                                      "attr": {
+                                        "class": "museumsoeffnungszeiten"
+                                      },
+                                      "child": [
+                                        {
+                                          "node": "text",
+                                          "text": "Von Mai bis November jeweils sonntags von 14 bis 17 Uhr\r\njederzeit Führungen nach Vereinbarung: T 031 808 00 20 (Zusatzkosten zum Eintritt: Fr. 50.-)"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "text",
+                                      "text": "\n\t\t\t\t\t"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "node": "text",
+                                  "text": "\n\t\t\t\t"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte2"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "Schwarzenburg"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "text",
+                              "text": "\n\t\t\t\t"
+                            },
+                            {
+                              "node": "element",
+                              "tag": "div",
+                              "attr": {
+                                "class": "spalte3"
+                              },
+                              "child": [
+                                {
+                                  "node": "text",
+                                  "text": "Bern"
                                 }
                               ]
                             },
@@ -65197,6 +65348,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -65283,7 +65455,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Bis Anfang Juni geschlossen."
+                                          "text": "geöffnet 1. Mai bis 31. Oktober \r\nMittwoch bis Samstag 14:00 bis 17:00\r\nSonntag und Feiertage inkl. Pfingstmontag 13:00 bis 17:00"
                                         }
                                       ]
                                     },
@@ -65338,27 +65510,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -68082,6 +68233,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -68223,27 +68395,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -70963,6 +71114,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -71104,27 +71276,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -71499,7 +71650,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Mi 14.00–16.30 Uhr\r\nöffentliche Führung: jeden 1. So im Monat um 15 Uhr"
+                                          "text": "täglich 9 – 17 Uhr (nur Rundgang)\r\nMi 14 –16 Uhr: Kinder drucken\r\nöffentliche Führung: jeden 1. So im Monat um 15 Uhr"
                                         }
                                       ]
                                     },
@@ -72921,7 +73072,7 @@
                                       "child": [
                                         {
                                           "node": "text",
-                                          "text": "Mi, Fr-So 11-17, Do 11-20"
+                                          "text": "11:00 - 20:00 | Do \r\n11:00 - 17:00 | Di,Mi,Fr,Sa,So "
                                         }
                                       ]
                                     },
@@ -73828,6 +73979,27 @@
                           ]
                         },
                         {
+                          "node": "text",
+                          "text": "\t\t\t\t"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "text",
+                      "text": "\t\n\t\t\t\t\t\t\t\t"
+                    },
+                    {
+                      "node": "element",
+                      "tag": "div",
+                      "attr": {
+                        "class": "result_pages"
+                      },
+                      "child": [
+                        {
+                          "node": "text",
+                          "text": "\n\t\t\t\t"
+                        },
+                        {
                           "node": "element",
                           "tag": "div",
                           "attr": {
@@ -73969,27 +74141,6 @@
                               "text": "\n\t\t\t"
                             }
                           ]
-                        },
-                        {
-                          "node": "text",
-                          "text": "\t\t\t\t"
-                        }
-                      ]
-                    },
-                    {
-                      "node": "text",
-                      "text": "\t\n\t\t\t\t\t\t\t\t"
-                    },
-                    {
-                      "node": "element",
-                      "tag": "div",
-                      "attr": {
-                        "class": "result_pages"
-                      },
-                      "child": [
-                        {
-                          "node": "text",
-                          "text": "\n\t\t\t\t"
                         },
                         {
                           "node": "element",
@@ -75157,7 +75308,7 @@
                               "child": [
                                 {
                                   "node": "text",
-                                  "text": "Number of results: 504"
+                                  "text": "Number of results: 505"
                                 }
                               ]
                             }

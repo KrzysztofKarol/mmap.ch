@@ -55,7 +55,13 @@
               museum.latitude,
               museum.longitude,
             ]).bindPopup(
-              museum.name + "<br/>" + museum.openingTime.join("<br/>")
+              museum.name +
+                "<br/>" +
+                ("<b>" + (museum.notice ?? "") + "</b>") +
+                "<br/>" +
+                museum.openingTime.join("<br/>") +
+                "<br/>" +
+                `<a href="${museum.url}">${museum.url}</a>`
             );
 
             markers.addLayer(marker);

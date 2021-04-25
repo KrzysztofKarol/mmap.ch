@@ -1,5 +1,10 @@
-const fs = require("fs");
-const json: JsonNode = require("./searchResults.json");
+import { writeFileSync } from "fs";
+import * as path from "path";
+import { JsonNode } from "./types";
+import { outFile as inputFile } from "../02-convertSearchResultsToJson/outFile";
+import { outFile } from "./outFile";
+
+const json: JsonNode = require(inputFile);
 
 // .result_pages
 const resultsParent = json.child[0].child[3].child[3].child[7];
@@ -16,16 +21,7 @@ let cleanedResults = results.map((result) => {
 
 const r = cleanedResults.filter((node) => node.child).map(extract);
 
-fs.writeFileSync("out.json", JSON.stringify(r, null, 2));
-
-//console.log(JSON.stringify(r, null, 2));
-
-type JsonNode = {
-  node: string;
-  child?: JsonNode[];
-  attr?: any;
-  text?: any;
-};
+writeFileSync(outFile, JSON.stringify(r, null, 2));
 
 function clean(node: JsonNode): void {
   if (!node.child) {
