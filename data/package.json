@@ -1,0 +1,22 @@
+{
+  "name": "mmap-ch-data",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "01-downloadSearchResults": "node --loader ts-node/esm --experimental-specifier-resolution=node ./01-downloadSearchResults/index.ts",
+    "02-convertSearchResultsToJson": "node --loader ts-node/esm --experimental-specifier-resolution=node ./02-convertSearchResultsToJson/index.ts",
+    "03-extractRawMusuemData": "node --loader ts-node/esm --experimental-specifier-resolution=node ./03-extractRawMusuemData/index.ts",
+    "04-downloadPlaceId": "node --require dotenv/config --loader ts-node/esm --experimental-specifier-resolution=node ./04-downloadPlaceId/index.ts",
+    "05-downloadDetails": "node --require dotenv/config --loader ts-node/esm --experimental-specifier-resolution=node ./05-downloadDetails/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.2.5",
+    "dotenv": "^10.0.0",
+    "html2json": "^1.0.2",
+    "node-fetch": "^3.0.0"
+  }
+}
