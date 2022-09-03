@@ -4,7 +4,8 @@ import { outFile as inputFile } from "../02-convertSearchResultsToJson/outFile";
 import { outFile } from "./outFile";
 
 (async () => {
-  const json: JsonNode = (await import(inputFile)).default;
+  const json: JsonNode = (await import(inputFile, { assert: { type: "json" } }))
+    .default;
 
   // .result_pages
   const resultsParent = json.child[0].child[3].child[3].child[7];

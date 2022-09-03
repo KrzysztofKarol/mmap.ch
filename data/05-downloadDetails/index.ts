@@ -10,7 +10,8 @@ if (!existsSync(outFile)) {
 }
 
 (async () => {
-  const museums = (await import(inputFile)).default;
+  const museums = (await import(inputFile, { assert: { type: "json" } }))
+    .default;
 
   for (const museum of museums) {
     const data = readFileSync(outFile, {
@@ -45,4 +46,19 @@ if (!existsSync(outFile)) {
 
     writeFileSync(outFile, JSON.stringify(all, null, 2));
   }
+
+  // Remove not existing
+  const existingIds: string[] = museums.map((museum) => museum.id);
+
+  const savedMuseumsData = readFileSync(outFile, {
+    encoding: "utf8",
+    flag: "r",
+  });
+  const savedMuseums = JSON.parse(savedMuseumsData);
+
+  const existingMuseums = savedMuseums.filter((museum) =>
+    existingIds.includes(museum.id)
+  );
+
+  writeFileSync(outFile, JSON.stringify(existingMuseums, null, 2));
 })();
