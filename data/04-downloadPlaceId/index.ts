@@ -53,7 +53,9 @@ if (!existsSync(outFile)) {
     const { candidates } = res.data;
 
     if (candidates.length === 0) {
-      throw new Error("Nothing is found");
+      console.warn(`Nothing was found for id: \`${id}\`, input: \`${input}\``);
+      continue;
+      // throw new Error("Nothing was found");
     }
 
     const { place_id } = candidates[0];

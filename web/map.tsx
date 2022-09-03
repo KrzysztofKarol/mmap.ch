@@ -24,7 +24,7 @@ function MyComponent() {
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
-    googleMapsApiKey: "AIzaSyCTq6GW8NOQdZfWT0wh1usV-QD0FUKZNsg",
+    googleMapsApiKey: "AIzaSyBvj0SYbemWCMT4dcPNeznKCiZna9VCclM",
   });
 
   const [map, setMap] = React.useState(null);
@@ -38,7 +38,8 @@ function MyComponent() {
   }, []);
 
   const options = {
-    imagePath: "/public/m", // so you must have m1.png, m2.png, m3.png, m4.png, m5.png and m6.png in that folder
+    imagePath:
+      "https://raw.githubusercontent.com/googlemaps/v3-utility-library/master/markerclusterer/images/m", // so you must have m1.png, m2.png, m3.png, m4.png, m5.png and m6.png in that folder
   };
 
   return isLoaded ? (
@@ -83,7 +84,6 @@ export default React.memo(MyComponent);
 
 const MuseumInfo = ({ museum }) => (
   <div>
-    {console.log(museum)}
     <strong>{museum.name}</strong>
     <pre>{museum.data.opening_hours?.weekday_text.join("\n")}</pre>
     <pre>{museum.openingTime.join("\n")}</pre>
