@@ -24,7 +24,8 @@ function MyComponent() {
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
-    googleMapsApiKey: "AIzaSyBvj0SYbemWCMT4dcPNeznKCiZna9VCclM",
+    // @ts-expect-error
+    googleMapsApiKey: process.env.GOOGLE_MAPS_API_KEY_CLIENT,
   });
 
   const [map, setMap] = React.useState(null);
@@ -85,6 +86,7 @@ export default React.memo(MyComponent);
 const MuseumInfo = ({ museum }) => (
   <div>
     <strong>{museum.name}</strong>
+    <pre>{museum.address}</pre>
     <pre>{museum.data.opening_hours?.weekday_text.join("\n")}</pre>
     <pre>{museum.openingTime.join("\n")}</pre>
   </div>
